@@ -58,3 +58,7 @@ console.log(n1+n2)
 ```
 
 Olá, pequeno Gafanhoto 🖖
+
+Daniel já dizia:
+>As coisas difíceis
+>não são fáceis
