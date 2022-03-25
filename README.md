@@ -62,3 +62,7 @@ Olá, pequeno Gafanhoto 🖖
 Daniel já dizia:
 >As coisas difíceis
 >não são fáceis
+
+## Marcando pessoas no GitHub
+
+Eu faço os curso do professor @gustavoguanabara
