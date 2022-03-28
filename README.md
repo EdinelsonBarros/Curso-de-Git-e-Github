@@ -35,6 +35,7 @@ Lembre-se de usar imagens de até 400px
 ## Como colocar links
 
 [Acesse o meu GitHub](https://github.com/EdinelsonBarros)
+[Acesse minha site](https://github.com/EdinelsonBarros)
 
 ## Usando tabelas
 
